@@ -3,6 +3,7 @@
     <author>Brian French</author>
     <email>brian.french@nih.gov</email>
     <description>Generate usage documentation in Markdown format so it can be published in Github/Gitlab.</description>
+    <version>1.0.0</version>
     <transformations>
         <transformation writer="twig" query="namespace" source="templates/markdown/namespace.md.twig" artifact="home.html"/>
         <transformation writer="twig" query="indexes.namespaces" source="templates/markdown/namespace.md.twig" />
