@@ -1,8 +1,8 @@
 {
-    "name": "fr3nch13/phpdoc-markdown",
+    "name": "pzzd/phpdoc-markdown",
     "description": "phpDocumentor template that generates Markdown documentation.",
     "keywords" : [ "PHPDoc", "phpDocumentor", "Documentation", "Markdown" ],
-    "homepage" : "https://dfir-bedlam.ocio.nih.gov/fr3nch13/phpdoc-markdown",
+    "homepage" : "https://github.com/pzzd/phpdoc-markdown",
     "license": "MIT",
     "authors": [
         {
